@@ -1,0 +1,2 @@
+# jchess
+Jhess - JavaScript chess
